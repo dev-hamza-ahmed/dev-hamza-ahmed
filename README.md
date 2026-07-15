@@ -1,11 +1,9 @@
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Hamza;CS+Student;Backend+Developer)
+
 ## Backend AI Engineering Intern at FlyRank AI | BSCS 5th Semester Student.
 Learning MERN Stack, backend engineering, and AI to build scalable software systems.
 
 ![My Skills](https://skillicons.dev/icons?i=cpp,python,js,html,css,react,vite,nodejs,express,mysql,postgres,mongodb,git,github)
-
-![](https://github-readme-stats.vercel.app/api?username=dev-hamza-ahmed&show_icons=true&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-hamza-ahmed&layout=compact&theme=radical)
 
 <!--
 **dev-hamza-ahmed/dev-hamza-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
