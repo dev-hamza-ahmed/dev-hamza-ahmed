@@ -1,7 +1,8 @@
 ## Backend AI Engineering Intern at FlyRank AI | BSCS 5th Semester Student.
-Learning MERN Stack, backend engineering, and AI to build scalable software systems.
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Hamza+Ahmed;BSCS+Student+at+University+of+Education;Backend+AI+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Hamza+Ahmed;BSCS+5th+Semester+Student;Backend+AI+Developer)
+
+Learning MERN Stack, backend engineering, and AI to build scalable software systems.
 
 ![My Skills](https://skillicons.dev/icons?i=cpp,python,js,html,css,react,vite,nodejs,express,mysql,postgres,mongodb,git,github)
 
