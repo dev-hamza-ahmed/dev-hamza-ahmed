@@ -1,4 +1,4 @@
-### Hi, I'm Hamza Ahmed 👋
+## Hi, I'm Hamza Ahmed 👋
 Backend AI Engineering Intern @ FlyRank AI | BSCS Student
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Building+scalable+backend+systems;Exploring+AI+%2B+MERN+stack;Always+learning+something+new)
