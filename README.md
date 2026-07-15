@@ -1,4 +1,5 @@
-## Hi there 👋
+## Backend AI Engineering Intern at FlyRank AI | BSCS 5th Semester Student.
+Learning MERN Stack, backend engineering, and AI to build scalable software systems.
 
 <!--
 **dev-hamza-ahmed/dev-hamza-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
