@@ -7,6 +7,8 @@ Learning the MERN stack and backend engineering, with a focus on building scalab
 
 ![My Skills](https://skillicons.dev/icons?i=cpp,python,js,react,vite,nodejs,express,mysql,postgres,mongodb)
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-hamza-ahmed&theme=react-dark)](https://github.com/dev-hamza-ahmed)
+
 ![](https://streak-stats.demolab.com/?user=dev-hamza-ahmed&theme=radical)
 
 ![](https://leetcard.jacoblin.cool/hamza_ahmed_dev?theme=dark&font=Fira%20Code)
