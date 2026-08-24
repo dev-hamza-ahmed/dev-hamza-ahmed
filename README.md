@@ -9,24 +9,11 @@ Learning the MERN stack and backend engineering, with a focus on building scalab
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-hamza-ahmed&theme=react-dark)](https://github.com/dev-hamza-ahmed)
 
-![](https://leetcard.jacoblin.cool/hamza_ahmed_dev?theme=dark&font=Fira%20Code)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-hamza-ahmed&theme=radical&hide_border=true)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/hamza_ahmed_dev?ext=heatmap)
 
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-ahmed-3108573b2/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hamza.ahmedev@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/hamza_ahmed_dev/)
-
-<!--
-**dev-hamza-ahmed/dev-hamza-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
